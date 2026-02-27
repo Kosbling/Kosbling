@@ -18,6 +18,7 @@ Empower 1 million solo founders to build $1M businesses with 90%+ of daily work 
 
 ## Links
 
-- 🌐 [kosbling.com](https://kosbling.com)
+- 🌐 [kosbling.ai](https://kosbling.ai)
 - 🐦 [@playwhatai](https://x.com/playwhatai)
-- 📬 [github@kosbling.com](mailto:github@kosbling.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chao-huang-64070761)
+- 📬 [github@kosbling.ai](mailto:github@kosbling.ai)
