@@ -1,24 +1,26 @@
 # Hey, I'm Kosbling 👋
 
-Building AI agent infrastructure for solo founders at **[@kosbling-ai](https://github.com/kosbling-ai)**.
+I build practical AI agent infrastructure at **[@Kosbling-ai](https://github.com/Kosbling-ai)**.
 
-## What we do
+Right now the focus is simple: make agents more useful on real business surfaces — dashboards, seller centers, support systems, and other browser-first tools that people actually run their businesses on.
 
-We started by helping DIY makers turn hobbies into businesses. Now we're building the tools that let individual creators hire and deploy their own digital workforce — AI agents that handle the work so you can focus on what matters.
+## Current projects
 
-## Projects
+| Project | What it does |
+|---|---|
+| [OpenClaw Kosbling Edition](https://github.com/Kosbling-ai/openclaw) | A production-oriented OpenClaw fork for business operations |
+| [claw-site-skills](https://github.com/Kosbling-ai/claw-site-skills) | Shared website-operation skills for helping OpenClaw navigate mainstream sites better |
 
-| Project | Description |
-|---------|-------------|
-| 🦞 [OpenClaw Kosbling Edition](https://github.com/kosbling-ai/openclaw) | Customized AI agent runtime with model isolation, cost controls, and business workflow integrations |
+## Interested in
 
-## Our Vision
-
-Empower 1 million solo founders to build $1M businesses with 90%+ of daily work delegated to digital employees.
+- browser automation that survives real UI drift
+- reusable agent skills
+- cost-aware AI operations
+- digital workforce tooling for solo founders and small teams
 
 ## Links
 
 - 🌐 [kosbling.ai](https://kosbling.ai)
+- 📬 [github@kosbling.com](mailto:github@kosbling.com)
 - 🐦 [@playwhatai](https://x.com/playwhatai)
 - 💼 [LinkedIn](https://www.linkedin.com/in/chao-huang-64070761)
-- 📬 [github@kosbling.ai](mailto:github@kosbling.ai)
