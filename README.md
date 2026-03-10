@@ -10,6 +10,7 @@ Right now the focus is simple: make agents more useful on real business surfaces
 |---|---|
 | [OpenClaw Kosbling Edition](https://github.com/Kosbling-ai/openclaw) | A production-oriented OpenClaw fork for business operations |
 | [claw-site-skills](https://github.com/Kosbling-ai/claw-site-skills) | Shared website-operation skills for helping OpenClaw navigate mainstream sites better |
+| [kosbling-skills](https://github.com/Kosbling-ai/kosbling-skills) | Kosbling’s maintained skill collection for production agent workflows |
 
 ## Interested in
 
